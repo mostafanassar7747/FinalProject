@@ -18,8 +18,7 @@ class CustomerTest {
                                "ahmet@email.com", "555-1234", "Istanbul");
     }
     
-    /**
-     * Test customer creation
+    /**Test customer creation
      */
     @Test
     void testCustomerCreation() {
